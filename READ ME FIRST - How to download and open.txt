@@ -1,0 +1,80 @@
+========================================================
+  PDF Password Remover  -  How to download and open
+========================================================
+
+Removes password protection / restrictions from PDF files so you can
+read, print, and copy from them. Pick the file for your computer below.
+
+  - Mac:      PDF-Password-Remover-macOS.zip
+  - Windows:  PDF Password Remover.exe
+
+This app is not signed by Apple or Microsoft, so your computer will show a
+one-time "unknown developer" warning. That is normal for a shared app like
+this. The steps below get you past it.
+
+
+--------------------------------------------------------
+STEP 1 - DOWNLOAD IT FROM GOOGLE DRIVE
+--------------------------------------------------------
+
+1. Open the Google Drive link.
+2. Click the file for your computer (see the two names above).
+3. Click the Download button (the down-arrow icon, usually top-right).
+4. Google may say "Google Drive can't scan this file for viruses."
+   Click "Download anyway." (This is just because the file is large /
+   is a program - it does not mean anything is wrong.)
+5. Windows + Chrome only: if the browser says the .exe "may be dangerous"
+   or was blocked, click "Keep" / "Keep anyway" to finish the download.
+
+The file lands in your Downloads folder.
+
+
+--------------------------------------------------------
+STEP 2A - OPEN IT ON A MAC   (Apple Silicon: M1/M2/M3/M4)
+--------------------------------------------------------
+
+Note: this Mac version runs on newer Apple-chip Macs, not older Intel Macs.
+
+1. In Downloads, double-click PDF-Password-Remover-macOS.zip to unzip it.
+   You now have "PDF Password Remover.app".
+2. (Optional) Drag it into your Applications folder.
+3. Double-click the app. macOS will block it the first time and say it
+   cannot verify the developer - this is expected. Click "Done"/"OK".
+4. Open the Apple menu -> System Settings -> Privacy & Security.
+5. Scroll down. You'll see a message about "PDF Password Remover" being
+   blocked. Click "Open Anyway", then confirm.
+6. It opens normally. You only have to do this once.
+
+
+--------------------------------------------------------
+STEP 2B - OPEN IT ON WINDOWS
+--------------------------------------------------------
+
+1. In Downloads, double-click "PDF Password Remover.exe".
+2. Windows SmartScreen may show a blue box: "Windows protected your PC."
+   Click "More info", then click "Run anyway".
+3. If your antivirus quarantines or warns about it, that is a known false
+   alarm for this kind of app - allow it / restore it to run it.
+4. It opens normally.
+
+
+--------------------------------------------------------
+STEP 3 - HOW TO USE IT
+--------------------------------------------------------
+
+1. "PDF folder"       - pick the folder that has your PDFs.
+2. "Save unlocked to" - fills in automatically (an "unlocked" subfolder);
+                        your original files are never changed.
+3. "Password"         - leave BLANK for files that open but block printing
+                        or copying. Type a password only for files that ask
+                        for one when you open them (one password is applied
+                        to the whole batch).
+4. Click "Remove Passwords". The log tells you, file by file, what happened:
+      - Restrictions removed (no password needed)
+      - Unlocked with your password
+      - Saved (not protected)
+      - Needs a password you don't have - skipped
+   Unlocked copies are in the "unlocked" folder.
+
+Note: this app unlocks PDFs you can already open, or that you have the
+password for. It cannot recover a password you were never given.
